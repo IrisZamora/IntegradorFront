@@ -1,0 +1,40 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.imgFondo {
+   background-image: url("../assets/img/hawaii.jpg");
+   background-position: center;
+   background-size: cover;
+   height: 80vh;
+   background-color: rgb(66, 63, 63);
+   background-blend-mode: soft-light;
+
+}
+
+.footer {
+  background-color: rgb(28, 61, 78)
+}
+
+.enviar{
+  background-color: rgb(150, 201, 62);
+}
+
+.barra{
+  background-color:rgb(51, 58, 64);
+}
+
+.formulario{
+  text-align: start;
+ font-size: 13px;
+}
+
+#oradores {
+  width: 70%;
+
+}
+
+li :hover {
+  color: blue;
+}
